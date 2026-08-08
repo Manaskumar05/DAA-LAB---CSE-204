@@ -3,7 +3,7 @@
 ## Lab Assignments
 
 | S.No | Assignment    | Source Code                               | Output                               |
-| ---: | ------------- | ----------------------------------------- | ------------------------------------ |
+| :--: | ------------- | ----------------------------------------- | ------------------------------------ |
 |    1 | Linear Search | [linear_search.c](./Code/linear_search.c) | [Output](./Output/linear-search.png) |
 |    2 | Binary Search | [binary_search.c](./Code/binary_search.c) | [Output](./Output/binary-search.png) |
 
