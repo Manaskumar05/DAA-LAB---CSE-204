@@ -4,5 +4,5 @@
 
 | S.No | Week | Lab Date   | Lab Assignment         | Folder               |
 | :--: | :--: | ---------- | ---------------------- | -------------------- |
-|    1 |   01 | 06-08-2026 | Linear & Binary Search | [Week 01](./Week-01) |
+|    1 |   01 | 06-08-2026 | Linear & Binary Search | [Week 01](./LAB 01) |
 
